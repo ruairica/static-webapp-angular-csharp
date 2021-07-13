@@ -43,16 +43,4 @@ testem.log
 
 # System Files
 .DS_Store
-
-#.net
-bin/
-obj/
-*.csproj.user
-packages/
-*.DotSettings.user
-*.Cache
-*.pubxml.user
-*.pubxml
-
-
 Thumbs.db
